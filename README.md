@@ -6,6 +6,9 @@ Source code of paper 'Novel Contextual Graph Network with Attention for Accident
 ## Pipeine
 ![avatar](resource/pipeline.jpg)
 
+## Data
+The 80 videos collected from the Internet, each video contains 100 frames. [[Google Drive]](https://drive.google.com/file/d/142sZjqfKzg2RoVAuwJEtjdchs7pdr2bi/view?usp=sharing)
+
 ## Reference
 * **Anticipating Traffic Accidents with Adaptive Loss and Large-scale Incident DB** [[Paper]](https://arxiv.org/pdf/1804.02675.pdf)
   * T. Suzuki, H. Kataoka, Y. Aoki, Y. Satoh, CVPR 2018.
